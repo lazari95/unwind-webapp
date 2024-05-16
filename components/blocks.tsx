@@ -6,8 +6,8 @@ export default function Blocks() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 mb-4">The majority our customers do not understand their workflows.</h2>
-            <p className="text-xl text-gray-400">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <h2 className="h2 mb-4">Understanding Customer Needs</h2>
+            <p className="text-xl text-gray-400">At Unwind, we prioritize understanding our customers' needs to provide the best possible experience. We believe in catering to your preferences and making your nightlife experience seamless and enjoyable.</p>
           </div>
 
           {/* Items */}
@@ -20,8 +20,8 @@ export default function Blocks() {
                 <path className="stroke-current text-purple-100" d="M30 39.313l-4.18 2.197L27 34.628l-5-4.874 6.91-1.004L32 22.49l3.09 6.26L42 29.754l-3 2.924" strokeLinecap="square" strokeWidth="2" fill="none" fillRule="evenodd" />
                 <path className="stroke-current text-purple-300" d="M43 42h-9M43 37h-9" strokeLinecap="square" strokeWidth="2" />
               </svg>
-              <h4 className="h4 mb-2">Instant Features</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <h4 className="h4 mb-2">Empowering Your Goals</h4>
+              <p className="text-lg text-gray-400 text-center">Unwind empowers you to reach your nightlife goals effortlessly. Whether it's discovering new venues or booking the perfect table for your night out, we're here to make it happen.</p>
             </div>
 
             {/* 2nd item */}
@@ -32,7 +32,7 @@ export default function Blocks() {
                 <path className="stroke-current text-purple-300" d="M26 28h12M26 32h12M26 36h5" strokeWidth="2" strokeLinecap="square" />
               </svg>
               <h4 className="h4 mb-2">Instant Features</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <p className="text-lg text-gray-400 text-center">With Unwind, you'll experience instant access to features designed to enhance your nightlife adventure. From easy table reservations to exclusive event access, your journey with us is just a click away.</p>
             </div>
 
             {/* 3rd item */}
@@ -46,7 +46,7 @@ export default function Blocks() {
                 </g>
               </svg>
               <h4 className="h4 mb-2">Instant Features</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <p className="text-lg text-gray-400 text-center">With Unwind, you'll experience instant access to features designed to enhance your nightlife adventure. From easy table reservations to exclusive event access, your journey with us is just a click away.</p>
             </div>
 
             {/* 4th item */}
@@ -59,7 +59,7 @@ export default function Blocks() {
                 </g>
               </svg>
               <h4 className="h4 mb-2">Instant Features</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <p className="text-lg text-gray-400 text-center">With Unwind, you'll experience instant access to features designed to enhance your nightlife adventure. From easy table reservations to exclusive event access, your journey with us is just a click away.</p>
             </div>
 
             {/* 5th item */}
@@ -72,7 +72,7 @@ export default function Blocks() {
                 </g>
               </svg>
               <h4 className="h4 mb-2">Instant Features</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <p className="text-lg text-gray-400 text-center">With Unwind, you'll experience instant access to features designed to enhance your nightlife adventure. From easy table reservations to exclusive event access, your journey with us is just a click away.</p>
             </div>
 
             {/* 6th item */}
@@ -86,7 +86,7 @@ export default function Blocks() {
                 </g>
               </svg>
               <h4 className="h4 mb-2">Instant Features</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <p className="text-lg text-gray-400 text-center">With Unwind, you'll experience instant access to features designed to enhance your nightlife adventure. From easy table reservations to exclusive event access, your journey with us is just a click away.</p>
             </div>
 
           </div>
